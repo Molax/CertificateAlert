@@ -8,9 +8,9 @@ namespace GroupVision.Bll
 {
     public class Login
     {
-        public int LoginUser(string login, string password)
-        {
-            return new GroupVision.Dal.Login().LoginUsuario(login, password);
-        }
+        //public int LoginUser(string login, string password)
+        //{
+        //    return new GroupVision.Dal.Login().LoginUsuario(login, password);
+        //}
     }
 }

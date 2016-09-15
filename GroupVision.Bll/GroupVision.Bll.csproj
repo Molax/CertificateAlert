@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GroupVision.Bll</RootNamespace>
     <AssemblyName>GroupVision.Bll</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Certificado.cs" />
     <Compile Include="Empresa.cs" />
     <Compile Include="Login.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -48,10 +50,6 @@
     <ProjectReference Include="..\GroupVision.Dal\GroupVision.Dal.csproj">
       <Project>{6ecafcf4-adbc-4273-8203-8c2f5b5dfce9}</Project>
       <Name>GroupVision.Dal</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\GroupVision.Data\GroupVision.Data.csproj">
-      <Project>{0d12f1c5-c139-4cf4-b4b6-b8fa3618b3d7}</Project>
-      <Name>GroupVision.Data</Name>
     </ProjectReference>
     <ProjectReference Include="..\GroupVision.ViewModel\GroupVision.ViewModel.csproj">
       <Project>{013728d6-6ea3-411f-b4ff-dec0d2de31d9}</Project>

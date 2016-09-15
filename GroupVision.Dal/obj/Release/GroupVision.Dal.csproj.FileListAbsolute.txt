@@ -1,0 +1,5 @@
+C:\Gitlab\CertificateAlert\GroupVision.Dal\bin\Release\GroupVision.Dal.dll
+C:\Gitlab\CertificateAlert\GroupVision.Dal\bin\Release\GroupVision.Dal.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Dal\obj\Release\GroupVision.Dal.csprojResolveAssemblyReference.cache
+C:\Gitlab\CertificateAlert\GroupVision.Dal\obj\Release\GroupVision.Dal.dll
+C:\Gitlab\CertificateAlert\GroupVision.Dal\obj\Release\GroupVision.Dal.pdb

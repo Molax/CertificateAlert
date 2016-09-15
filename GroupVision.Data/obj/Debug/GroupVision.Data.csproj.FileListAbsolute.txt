@@ -4,3 +4,9 @@ c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Data\obj\Debug\GroupVision.Data.dll
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Data\obj\Debug\GroupVision.Data.pdb
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Data\obj\Debug\GroupVision.Data.csprojResolveAssemblyReference.cache
+C:\Gitlab\CertificateAlert\GroupVision.Data\bin\Debug\GroupVision.Data.dll.config
+C:\Gitlab\CertificateAlert\GroupVision.Data\bin\Debug\GroupVision.Data.dll
+C:\Gitlab\CertificateAlert\GroupVision.Data\bin\Debug\GroupVision.Data.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Data\obj\Debug\GroupVision.Data.csprojResolveAssemblyReference.cache
+C:\Gitlab\CertificateAlert\GroupVision.Data\obj\Debug\GroupVision.Data.dll
+C:\Gitlab\CertificateAlert\GroupVision.Data\obj\Debug\GroupVision.Data.pdb

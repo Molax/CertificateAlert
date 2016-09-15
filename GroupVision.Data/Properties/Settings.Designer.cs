@@ -42,5 +42,16 @@ namespace GroupVision.Data.Properties {
                 return ((string)(this["GroupVisaoConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=186.202.148.146;Initial Catalog=groupvisao;Persist Security Info=True" +
+            ";User ID=groupvisao;Password=visao@2016")]
+        public string groupvisaoConnectionString1 {
+            get {
+                return ((string)(this["groupvisaoConnectionString1"]));
+            }
+        }
     }
 }

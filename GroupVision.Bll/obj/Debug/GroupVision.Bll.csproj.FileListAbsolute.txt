@@ -9,3 +9,14 @@ c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Bll\obj\Debug\GroupVision.Bll.csprojResolveAssemblyReference.cache
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Bll\obj\Debug\GroupVision.Bll.dll
 c:\users\molax\documents\visual studio 2015\Projects\GroupVisao.Web\GroupVision.Bll\obj\Debug\GroupVision.Bll.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Bll.dll
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Bll.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Dal.dll
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Data.dll
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.ViewModel.dll
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Dal.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.Data.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Bll\bin\Debug\GroupVision.ViewModel.pdb
+C:\Gitlab\CertificateAlert\GroupVision.Bll\obj\Debug\GroupVision.Bll.csprojResolveAssemblyReference.cache
+C:\Gitlab\CertificateAlert\GroupVision.Bll\obj\Debug\GroupVision.Bll.dll
+C:\Gitlab\CertificateAlert\GroupVision.Bll\obj\Debug\GroupVision.Bll.pdb
